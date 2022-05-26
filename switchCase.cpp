@@ -37,36 +37,34 @@ int main()
   switch (button)
   {
   case 'a':
-  {
+
     cout << "Hello sir";
     break;
-  }
+
   case 'b':
-  {
+
     cout << "Hello Mam";
     break;
-  }
+
   case 'c':
-  {
+
     cout << "Hello Friends";
     break;
-  }
+
   case 'd':
-  {
+
     cout << "Hi girls";
     break;
-  }
+
   case 'e':
-  {
+
     cout << "hi boys";
     break;
-  }
 
   default:
-  {
+
     cout << "Still try to good understading";
     break;
-  }
   }
 
   return 0;
